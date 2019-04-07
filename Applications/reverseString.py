@@ -1,4 +1,4 @@
-from Stack import Stack
+from LinearDs.LinearDs import Stack
 # reverse a string using stack data structure
 def reverse(string):
     stack=Stack() # create empty stack object

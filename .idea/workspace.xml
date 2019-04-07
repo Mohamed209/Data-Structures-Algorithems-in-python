@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdc4f572-732a-4cac-8d48-9c271242523c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Stack/toBase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearDs/LinearDs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/balancedParen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/balancedParen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/decimalToBinary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/Stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/balancedParen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/balancedParen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/reverseString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/reverseString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/toBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/toBase.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,46 +18,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angaramCheck.py">
+        <entry file="file://$PROJECT_DIR$/LinearDs/LinearDs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            <state relative-caret-position="243">
+              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stack/toBase.py">
+        <entry file="file://$PROJECT_DIR$/Applications/balancedParen.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state>
+              <caret selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stack/Stack.py">
+        <entry file="file://$PROJECT_DIR$/Applications/reverseString.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state>
+              <caret column="35" selection-start-column="35" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Stack/balancedParen.py">
+        <entry file="file://$PROJECT_DIR$/Applications/toBase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Stack/reverseString.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state>
+              <caret column="35" selection-start-column="35" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -78,9 +71,14 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Stack.py" />
         <option value="$PROJECT_DIR$/Stack/reverseString.py" />
-        <option value="$PROJECT_DIR$/Stack/Stack.py" />
         <option value="$PROJECT_DIR$/Stack/decimalToBinary.py" />
         <option value="$PROJECT_DIR$/Stack/balancedParen.py" />
+        <option value="$PROJECT_DIR$/Stack/Stack.py" />
+        <option value="$PROJECT_DIR$/Queue/Queue.py" />
+        <option value="$PROJECT_DIR$/Applications/balancedParen.py" />
+        <option value="$PROJECT_DIR$/LinearDs/LinearDs.py" />
+        <option value="$PROJECT_DIR$/Applications/reverseString.py" />
+        <option value="$PROJECT_DIR$/Applications/toBase.py" />
       </list>
     </option>
   </component>
@@ -101,11 +99,6 @@
             <path>
               <item name="Python_DS&amp;Algorithems" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_DS&amp;Algorithems" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_DS&amp;Algorithems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_DS&amp;Algorithems" type="462c0819:PsiDirectoryNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,7 +122,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.balancedParen">
+  <component name="RunManager" selected="Python.balancedParen (1)">
+    <configuration name="LinearDs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_DS&amp;Algorithems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinearDs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinearDs/LinearDs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Stack (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_DS&amp;Algorithems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,6 +186,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="balancedParen (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_DS&amp;Algorithems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Applications" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Applications/balancedParen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="balancedParen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_DS&amp;Algorithems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,55 +228,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decimalToBinary" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_DS&amp;Algorithems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/toBase.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="reverseString" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_DS&amp;Algorithems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/reverseString.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.balancedParen" />
-        <item itemvalue="Python.decimalToBinary" />
-        <item itemvalue="Python.reverseString" />
+        <item itemvalue="Python.balancedParen (1)" />
+        <item itemvalue="Python.LinearDs" />
         <item itemvalue="Python.Stack (1)" />
         <item itemvalue="Python.Stack" />
+        <item itemvalue="Python.balancedParen" />
       </list>
     </recent_temporary>
   </component>
@@ -305,20 +298,26 @@
       <option name="project" value="LOCAL" />
       <updated>1554543733689</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added general case for balanced paren">
+      <created>1554573007757</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554573007757</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -335,42 +334,53 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="check for balanced Parentheses using stack" />
     <MESSAGE value="added decimal to binary conversion" />
-    <option name="LAST_COMMIT_MESSAGE" value="added decimal to binary conversion" />
+    <MESSAGE value="added general case for balanced paren" />
+    <option name="LAST_COMMIT_MESSAGE" value="added general case for balanced paren" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Stack.py" />
     <entry file="file://$PROJECT_DIR$/angaramCheck.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="19">
+          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stack/reverseString.py">
+    <entry file="file://$PROJECT_DIR$/Applications/Stack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="190">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stack/Stack.py">
+    <entry file="file://$PROJECT_DIR$/Queue/Queue.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinearDs/LinearDs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="243">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stack/toBase.py">
+    <entry file="file://$PROJECT_DIR$/Applications/balancedParen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state>
+          <caret selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Stack/balancedParen.py">
+    <entry file="file://$PROJECT_DIR$/Applications/reverseString.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applications/toBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-start-column="35" selection-end-column="35" />
         </state>
       </provider>
     </entry>

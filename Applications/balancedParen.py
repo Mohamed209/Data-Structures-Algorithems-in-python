@@ -1,4 +1,4 @@
-from Stack import Stack
+from LinearDs.LinearDs import Stack
 def match(ch):
     paren={
         ')':'(',

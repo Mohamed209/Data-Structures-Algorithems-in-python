@@ -1,4 +1,4 @@
-from Stack import Stack
+from LinearDs.LinearDs import Stack
 # function to convert number to any base
 def toBase(number,base):
     s=Stack()
