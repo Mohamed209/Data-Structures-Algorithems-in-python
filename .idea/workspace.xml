@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdc4f572-732a-4cac-8d48-9c271242523c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LinearDs/LinearDs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/Stack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/balancedParen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/balancedParen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/reverseString.py" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/reverseString.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/toBase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Applications/toBase.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,38 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LinearDs/LinearDs.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
-              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Applications/balancedParen.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Applications/reverseString.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="35" selection-start-column="35" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Applications/toBase.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="35" selection-start-column="35" selection-end-column="35" />
+              <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -76,9 +44,9 @@
         <option value="$PROJECT_DIR$/Stack/Stack.py" />
         <option value="$PROJECT_DIR$/Queue/Queue.py" />
         <option value="$PROJECT_DIR$/Applications/balancedParen.py" />
-        <option value="$PROJECT_DIR$/LinearDs/LinearDs.py" />
         <option value="$PROJECT_DIR$/Applications/reverseString.py" />
         <option value="$PROJECT_DIR$/Applications/toBase.py" />
+        <option value="$PROJECT_DIR$/LinearDs/LinearDs.py" />
       </list>
     </option>
   </component>
@@ -99,6 +67,11 @@
             <path>
               <item name="Python_DS&amp;Algorithems" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_DS&amp;Algorithems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_DS&amp;Algorithems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_DS&amp;Algorithems" type="462c0819:PsiDirectoryNode" />
+              <item name="LinearDs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -122,7 +95,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.balancedParen (1)">
+  <component name="RunManager" selected="Python.LinearDs">
     <configuration name="LinearDs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_DS&amp;Algorithems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,8 +203,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.balancedParen (1)" />
         <item itemvalue="Python.LinearDs" />
+        <item itemvalue="Python.balancedParen (1)" />
         <item itemvalue="Python.Stack (1)" />
         <item itemvalue="Python.Stack" />
         <item itemvalue="Python.balancedParen" />
@@ -305,18 +278,26 @@
       <option name="project" value="LOCAL" />
       <updated>1554573007757</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="code refactored">
+      <created>1554658792478</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554658792478</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -335,7 +316,8 @@
     <MESSAGE value="check for balanced Parentheses using stack" />
     <MESSAGE value="added decimal to binary conversion" />
     <MESSAGE value="added general case for balanced paren" />
-    <option name="LAST_COMMIT_MESSAGE" value="added general case for balanced paren" />
+    <MESSAGE value="code refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="code refactored" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Stack.py" />
@@ -356,17 +338,17 @@
     <entry file="file://$PROJECT_DIR$/Queue/Queue.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinearDs/LinearDs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Applications/balancedParen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applications/toBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -377,10 +359,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Applications/toBase.py">
+    <entry file="file://$PROJECT_DIR$/LinearDs/LinearDs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        <state relative-caret-position="243">
+          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
         </state>
       </provider>
     </entry>
