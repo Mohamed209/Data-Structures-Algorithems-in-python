@@ -27,3 +27,7 @@ class Stack(LinearDs):
         return self.items[-1]
 class Queue(LinearDs):
     """ to do write docstring"""
+    def enqueue(self,item):
+        self.items.insert(0,item)
+    def dequeue(self):
+        self.items.pop()
