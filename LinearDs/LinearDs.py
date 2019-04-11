@@ -20,7 +20,7 @@ class Stack(LinearDs):
         self.items.append(item)
     def pop(self):  # remove stack top item
         try:
-            self.items.pop()
+            return self.items.pop()
         except IndexError:
             print("you can not pop from empty stack")
     def top(self):
@@ -30,4 +30,21 @@ class Queue(LinearDs):
     def enqueue(self,item):
         self.items.insert(0,item)
     def dequeue(self):
-        self.items.pop()
+        return self.items.pop()
+class Dequeu(LinearDs):
+    """TO do write docstring"""
+    def addFront(self,item):
+        self.items.append(item)
+    def addRear(self,item):
+        self.items.insert(0,item)
+    def removeFront(self):
+        try:
+            return self.items.pop()
+        except IndexError:
+            print("you can not remove from empty queue")
+    def removeRear(self):
+        try:
+            return self.items.pop(0)
+        except IndexError:
+            print("you can not remove from empty queue")
+
