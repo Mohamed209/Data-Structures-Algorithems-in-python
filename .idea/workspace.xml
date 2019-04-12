@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdc4f572-732a-4cac-8d48-9c271242523c" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/UtilClasses/Node.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/Applications/palindromeCheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python_DS&amp;Algorithems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_DS&amp;Algorithems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+>>>>>>> origin/master
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LinearDs/LinearDs.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinearDs/LinearDs.py" afterDir="false" />
     </list>
@@ -14,20 +20,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LinearDs/LinearDs.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="322">
               <caret line="105" column="47" lean-forward="true" selection-start-line="105" selection-start-column="47" selection-end-line="105" selection-end-column="47" />
+=======
+            <state relative-caret-position="217">
+              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+>>>>>>> origin/master
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UtilClasses/Node.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="243">
               <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Applications/palindromeCheck.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+>>>>>>> origin/master
             </state>
           </provider>
         </entry>
@@ -40,6 +59,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pop</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -59,6 +83,7 @@
         <option value="$PROJECT_DIR$/Applications/toBase.py" />
         <option value="$PROJECT_DIR$/UtilClasses/Node.py" />
         <option value="$PROJECT_DIR$/LinearDs/LinearDs.py" />
+        <option value="$PROJECT_DIR$/Applications/palindromeCheck.py" />
       </list>
     </option>
   </component>
@@ -77,13 +102,13 @@
         <subPane>
           <expand>
             <path>
-              <item name="Python_DS&amp;Algorithems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_DS&amp;Algorithems" type="462c0819:PsiDirectoryNode" />
+              <item name="Data-Structures-Algorithems-in-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-Structures-Algorithems-in-python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Python_DS&amp;Algorithems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_DS&amp;Algorithems" type="462c0819:PsiDirectoryNode" />
-              <item name="LinearDs" type="462c0819:PsiDirectoryNode" />
+              <item name="Data-Structures-Algorithems-in-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-Structures-Algorithems-in-python" type="462c0819:PsiDirectoryNode" />
+              <item name="Applications" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_DS&amp;Algorithems" type="b2602c69:ProjectViewProjectNode" />
@@ -100,6 +125,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,7 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LinearDs">
+  <component name="RunManager" selected="Python.palindromeCheck">
     <configuration name="LinearDs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_DS&amp;Algorithems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,7 +224,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+<<<<<<< HEAD
     <configuration name="balancedParen (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="palindromeCheck" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> origin/master
       <module name="Python_DS&amp;Algorithems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,7 +240,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Applications/balancedParen.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Applications/palindromeCheck.py" />
+>>>>>>> origin/master
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,6 +255,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.palindromeCheck" />
         <item itemvalue="Python.LinearDs" />
         <item itemvalue="Python.Node" />
         <item itemvalue="Python.balancedParen (1)" />
@@ -314,15 +349,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1299" height="743" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -356,6 +391,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Applications/Stack.py" />
     <entry file="file://$PROJECT_DIR$/Queue/Queue.py" />
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Applications/toBase.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -364,6 +400,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Applications/reverseString.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Applications/balancedParen.py">
+>>>>>>> origin/master
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="35" selection-start-column="35" selection-end-column="35" />
@@ -386,8 +425,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LinearDs/LinearDs.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="322">
           <caret line="105" column="47" lean-forward="true" selection-start-line="105" selection-start-column="47" selection-end-line="105" selection-end-column="47" />
+=======
+        <state relative-caret-position="217">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applications/palindromeCheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+>>>>>>> origin/master
         </state>
       </provider>
     </entry>
