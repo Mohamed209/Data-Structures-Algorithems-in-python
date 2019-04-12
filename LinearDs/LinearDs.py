@@ -1,3 +1,4 @@
+from UtilClasses.Node import Node
 class LinearDs:
     """ to do add class doc string"""
     def __init__(self):
@@ -31,3 +32,90 @@ class Queue(LinearDs):
         self.items.insert(0,item)
     def dequeue(self):
         self.items.pop()
+# Linked List implementation
+class LinkedList:
+
+    """singly-linked list in Python"""
+    def __init__(self):
+        self.head=None
+
+    def isEmpty(self):
+        return self.head==None
+
+    def prepend(self,item):
+        n=Node(item)
+        n.setNext(self.head)
+        self.head=n
+
+    def append(self,item):
+        if self.isEmpty():
+            self.head=Node(item)
+            return
+        # traverse the list to find the last element
+        current=self.head
+        while current.getNext():
+            current=current.getNext()
+        current.setNext(Node(item))
+        return
+    def showItems(self):
+        items=[]
+        if self.isEmpty():
+            return ("empty linked list")
+        # traverse the list
+        current=self.head
+        items.append(current.getData())
+        while current.getNext():
+            current=current.getNext()
+            items.append(current.getData())
+        print(items)
+
+    def size(self):
+        current = self.head
+        count = 0
+        while current != None:
+            count = count + 1
+            current = current.getNext()
+
+        return count
+
+    def search(self, item):
+        current = self.head
+        found = False
+        while current != None and not found:
+            if current.getData() == item:
+                found = True
+            else:
+                current = current.getNext()
+
+        return found
+
+    def remove(self, item):
+        current = self.head
+        previous = None
+        found = False
+        while not found:
+            if current.getData() == item:
+                found = True
+            else:
+                previous = current
+                current = current.getNext()
+
+        if previous == None:
+            self.head = current.getNext()
+        else:
+            previous.setNext(current.getNext())
+
+ls=LinkedList()
+print(ls.isEmpty())
+ls.prepend(6)
+ls.prepend(7)
+print(ls.isEmpty())
+ls.showItems()
+ls.append(0)
+ls.showItems()
+ls.prepend(5)
+ls.showItems()
+if ls.search(0):
+    print("ok")
+if not ls.search(8):
+    print("ok2")
