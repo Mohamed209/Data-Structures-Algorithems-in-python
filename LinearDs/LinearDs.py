@@ -104,18 +104,19 @@ class LinkedList:
             self.head = current.getNext()
         else:
             previous.setNext(current.getNext())
+    # remove by value and by index , insert at position
+    def insert(self,item,position):
+        n=Node(item)
+        current = self.head
+        for i in range(position-1):
+            current=current.getNext()
+        n.setNext(current.getNext())
+        current.setNext(n.getData())
 
-ls=LinkedList()
-print(ls.isEmpty())
-ls.prepend(6)
-ls.prepend(7)
-print(ls.isEmpty())
-ls.showItems()
-ls.append(0)
-ls.showItems()
-ls.prepend(5)
-ls.showItems()
-if ls.search(0):
-    print("ok")
-if not ls.search(8):
-    print("ok2")
+    def removeByIndex(self,position):
+        current=self.head
+        for i in range(position-1):
+            current=current.getNext()
+        newnext=current.getNext()
+        newnext.setNext(newnext.getNext())
+        current.setNext(newnext.getNext())
