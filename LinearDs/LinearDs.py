@@ -106,6 +106,7 @@ class LinkedList:
             previous.setNext(current.getNext())
     # remove by value and by index , insert at position
     def insert(self,item,position):
+
         n=Node(item)
         current = self.head
         for i in range(position-1):
@@ -114,6 +115,7 @@ class LinkedList:
         current.setNext(n.getData())
 
     def removeByIndex(self,position):
+
         current=self.head
         for i in range(position-1):
             current=current.getNext()
