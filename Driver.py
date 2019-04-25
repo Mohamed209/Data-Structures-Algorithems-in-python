@@ -4,7 +4,7 @@
     return numrep[0]==numrep[1]
 print(angaramCheck('listen','silent'))
 print(angaramCheck('heart','earth'))'''
-from LinearDs.LinearDs import *
+'''from LinearDs.LinearDs import *
 ls=LinkedList()
 ls.prepend(6)
 ls.prepend(7)
@@ -12,4 +12,6 @@ ls.prepend('a')
 ls.prepend('b')
 ls.showItems()
 ls.removeByIndex(2)
-ls.showItems()
+ls.showItems()'''
+l=[]
+print(l[0])
