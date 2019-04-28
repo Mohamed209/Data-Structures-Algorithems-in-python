@@ -13,3 +13,4 @@ def fib(n,memo):
 N=int(input())
 memo=[None]*(N+1)
 print(fib(N,memo))
+print(fib(N,memo))
