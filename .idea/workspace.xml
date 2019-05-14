@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdc4f572-732a-4cac-8d48-9c271242523c" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/UtilClasses/Node.py" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/Applications/palindromeCheck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python_DS&amp;Algorithems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python_DS&amp;Algorithems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
->>>>>>> origin/master
+    <list default="true" id="7e6d1896-fe68-46dc-8b69-9eb535578534" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/NonLinearDs/BinaryTree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearDs/LinearDs.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinearDs/LinearDs.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,34 +12,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinearDs/LinearDs.py">
+        <entry file="file://$PROJECT_DIR$/Driver.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="322">
-              <caret line="105" column="47" lean-forward="true" selection-start-line="105" selection-start-column="47" selection-end-line="105" selection-end-column="47" />
-=======
-            <state relative-caret-position="217">
-              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
->>>>>>> origin/master
+            <state relative-caret-position="336">
+              <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UtilClasses/Node.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-=======
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Applications/palindromeCheck.py">
+        <entry file="file://$PROJECT_DIR$/NonLinearDs/BinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
->>>>>>> origin/master
+            <state relative-caret-position="293">
+              <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -60,30 +40,14 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>pop</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/Stack.py" />
-        <option value="$PROJECT_DIR$/Stack/reverseString.py" />
-        <option value="$PROJECT_DIR$/Stack/decimalToBinary.py" />
-        <option value="$PROJECT_DIR$/Stack/balancedParen.py" />
-        <option value="$PROJECT_DIR$/Stack/Stack.py" />
-        <option value="$PROJECT_DIR$/Queue/Queue.py" />
-        <option value="$PROJECT_DIR$/Applications/balancedParen.py" />
-        <option value="$PROJECT_DIR$/Applications/reverseString.py" />
-        <option value="$PROJECT_DIR$/Applications/toBase.py" />
-        <option value="$PROJECT_DIR$/UtilClasses/Node.py" />
-        <option value="$PROJECT_DIR$/LinearDs/LinearDs.py" />
-        <option value="$PROJECT_DIR$/Applications/palindromeCheck.py" />
+        <option value="$PROJECT_DIR$/NonLinearDs/Tree.py" />
+        <option value="$PROJECT_DIR$/NonLinearDs/BinaryTree.py" />
       </list>
     </option>
   </component>
@@ -98,6 +62,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,24 +73,22 @@
             <path>
               <item name="Data-Structures-Algorithems-in-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Data-Structures-Algorithems-in-python" type="462c0819:PsiDirectoryNode" />
-              <item name="Applications" type="462c0819:PsiDirectoryNode" />
+              <item name="LinearDs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Python_DS&amp;Algorithems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_DS&amp;Algorithems" type="462c0819:PsiDirectoryNode" />
-              <item name="UtilClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="Data-Structures-Algorithems-in-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Data-Structures-Algorithems-in-python" type="462c0819:PsiDirectoryNode" />
+              <item name="NonLinearDs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,8 +102,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.palindromeCheck">
-    <configuration name="LinearDs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager">
+    <configuration name="BinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_DS&amp;Algorithems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,103 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinearDs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NonLinearDs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinearDs/LinearDs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Node" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_DS&amp;Algorithems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UtilClasses" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UtilClasses/Node.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Stack (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_DS&amp;Algorithems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Stack" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack/Stack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_DS&amp;Algorithems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Stack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="balancedParen (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-=======
-    <configuration name="palindromeCheck" type="PythonConfigurationType" factoryName="Python" temporary="true">
->>>>>>> origin/master
-      <module name="Python_DS&amp;Algorithems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Applications" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-<<<<<<< HEAD
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Applications/balancedParen.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Applications/palindromeCheck.py" />
->>>>>>> origin/master
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NonLinearDs/BinaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,12 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.palindromeCheck" />
-        <item itemvalue="Python.LinearDs" />
-        <item itemvalue="Python.Node" />
-        <item itemvalue="Python.balancedParen (1)" />
-        <item itemvalue="Python.Stack (1)" />
-        <item itemvalue="Python.Stack" />
+        <item itemvalue="Python.BinaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -269,83 +135,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fdc4f572-732a-4cac-8d48-9c271242523c" name="Default Changelist" comment="" />
-      <created>1554454406591</created>
+      <changelist id="7e6d1896-fe68-46dc-8b69-9eb535578534" name="Default Changelist" comment="" />
+      <created>1557858130170</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554454406591</updated>
+      <updated>1557858130170</updated>
     </task>
-    <task id="LOCAL-00001" summary="initial commit">
-      <created>1554454591185</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1554454591185</updated>
-    </task>
-    <task id="LOCAL-00002" summary="initial commit">
-      <created>1554459498047</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1554459498047</updated>
-    </task>
-    <task id="LOCAL-00003" summary="initial commit">
-      <created>1554484653186</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1554484653186</updated>
-    </task>
-    <task id="LOCAL-00004" summary="initial commit">
-      <created>1554507790080</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1554507790080</updated>
-    </task>
-    <task id="LOCAL-00005" summary="check for balanced Parentheses using stack">
-      <created>1554511581260</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1554511581260</updated>
-    </task>
-    <task id="LOCAL-00006" summary="added decimal to binary conversion">
-      <created>1554543678386</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1554543678387</updated>
-    </task>
-    <task id="LOCAL-00007" summary="added decimal to binary conversion">
-      <created>1554543733689</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1554543733689</updated>
-    </task>
-    <task id="LOCAL-00008" summary="added general case for balanced paren">
-      <created>1554573007757</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1554573007757</updated>
-    </task>
-    <task id="LOCAL-00009" summary="code refactored">
-      <created>1554658792478</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1554658792478</updated>
-    </task>
-    <task id="LOCAL-00010" summary="queue class implemented">
-      <created>1554660572009</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1554660572009</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -356,89 +151,33 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32899022" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial commit" />
-    <MESSAGE value="check for balanced Parentheses using stack" />
-    <MESSAGE value="added decimal to binary conversion" />
-    <MESSAGE value="added general case for balanced paren" />
-    <MESSAGE value="code refactored" />
-    <MESSAGE value="queue class implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="queue class implemented" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Stack.py" />
-    <entry file="file://$PROJECT_DIR$/angaramCheck.py">
+    <entry file="file://$PROJECT_DIR$/Driver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        <state relative-caret-position="336">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Applications/Stack.py" />
-    <entry file="file://$PROJECT_DIR$/Queue/Queue.py" />
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/Applications/toBase.py">
+    <entry file="file://$PROJECT_DIR$/NonLinearDs/BinaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Applications/reverseString.py">
-=======
-    <entry file="file://$PROJECT_DIR$/Applications/balancedParen.py">
->>>>>>> origin/master
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="35" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Applications/balancedParen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UtilClasses/Node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LinearDs/LinearDs.py">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="322">
-          <caret line="105" column="47" lean-forward="true" selection-start-line="105" selection-start-column="47" selection-end-line="105" selection-end-column="47" />
-=======
-        <state relative-caret-position="217">
-          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Applications/palindromeCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
->>>>>>> origin/master
+        <state relative-caret-position="293">
+          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
         </state>
       </provider>
     </entry>
